@@ -7,4 +7,3 @@ to develop classes that reflect student interest. At the core of our many projec
 ## What is this repository for?
 This repository serves to provide a collection of all of the documents that have been provided throughout the course. 
 
-> Written with [StackEdit](https://stackedit.io/).
