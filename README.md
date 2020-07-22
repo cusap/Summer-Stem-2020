@@ -1,6 +1,3 @@
-﻿
-<img src="./pics/summer_stem_logo.png" align="left" height="600" width="2400" >
-
 ![enter image description here](./pics/summer_stem_logo.png) 
 # Smart Technology and Urban Agriculture
  ## Who Are We?
