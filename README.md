@@ -1,5 +1,5 @@
 ﻿
-<img src="./pics/summer_stem_logo.png" align="left" height="48" width="48" >
+<img src="./pics/summer_stem_logo.png" align="left" height="37.5%" width="75%" >
 
 ![enter image description here](./pics/summer_stem_logo.png) 
 # Smart Technology and Urban Agriculture
