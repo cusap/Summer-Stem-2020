@@ -1,5 +1,6 @@
 ﻿
-![enter image description here](./pics/summer_stem_logo.png =200x100) 
+<img src="./pics/summer_stem_logo.png" align="left" height="48" width="48" > 
+![enter image description here](./pics/summer_stem_logo.png) 
 # Smart Technology and Urban Agriculture
  ## Who Are We?
  CUSAP or Cooper Union Sustainable Agricultural Project, is a socially and ecologically integrated initiative for plant cultivation, community assimilation, and education. We are committed to exploring the various ways in which food systems can integrate into the urban environment. We’ve created and conceptualized distinct hydroponic systems, a deployable green-house, and worked with professors as peers  
