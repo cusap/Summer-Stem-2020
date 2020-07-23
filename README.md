@@ -1,4 +1,3 @@
-![stuff](./pics/cusap\ logo\ black_1@4x.png)
 ![enter image description here](./pics/summer_stem_logo.png) 
 # Smart Technology and Urban Agriculture
  ## Who Are We?
